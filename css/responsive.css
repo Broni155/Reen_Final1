@@ -469,14 +469,14 @@ transform: scale(0.9);
     font-size: 12px;
     text-align: left;
     margin-left: 13px;
-    display: none;
+     display: none;
 }
 
 .footer-last .inner-nav .nav-item a {
     color: #5d6b79;
     font-weight: 600;
     font-size: 11px;
-    padding: 0px 7px 8px;
+     padding: 0px 7px 8px;
 }
 .footer-last .inner-nav .nav-item a:hover{
     color:  #00bc9c;
